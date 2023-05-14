@@ -1,0 +1,21 @@
+body{
+     background: linear-gradient(to right, steelblue, powderblue); /* Standard syntax */
+     }
+     
+ h1{
+ text-align: center;
+ text-decoration-line: underline;
+ }
+ 
+ .Calculator{
+     
+     background-color: skyblue;
+     border: 2px solid black;
+     padding: 25px;
+     margin:auto;
+     text-color: 2px solid black;
+     }
+     
+ th{
+   height: 50px;
+   }
