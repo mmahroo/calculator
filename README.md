@@ -1,1 +1,1 @@
-Calculator using javascript 
+Calculator using javascript (DOM Maniplution)
